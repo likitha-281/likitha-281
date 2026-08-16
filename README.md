@@ -1,17 +1,113 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🎓 B.Tech student | Artificial Intelligence & Machine Learning<br><br>💻 I enjoy turning ideas into real-world applications by combining<br>   software engineering with AI.<br><br>🌐 Full-Stack Development<br>   React • Vite • Node.js • Express.js • MongoDB<br><br>🤖 AI / ML<br>   Machine Learning • Deep Learning • NLP • Generative AI • LLMs • RAG<br><br>🧠 Programming & Problem Solving<br>   Python • C • C++ • DSA • LeetCode<br><br>🚀 Currently building end-to-end projects where<br>   Frontend + Backend + Database + AI/ML work together.<br><br>📚 Currently learning:<br>   Modern AI systems • LLM applications • RAG • AI Agents<br>   Backend development • Deployment • MLOps/LLMOps<br><br>🔨 I prefer learning by building — not just studying isolated technologies.<br><br>🤝 Open to collaborating on interesting AI, ML and full-stack projects.<br><br>🎯 Long-term goal:<br>   Build production-ready intelligent applications and grow into<br>   an AI/ML Engineer with strong software engineering skills.
+<h1 align="center">👋 Hi, I'm Likitha Nayudu</h1>
 
+<h3 align="center">
+AI/ML • Full-Stack Development • Problem Solving
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/likitha-nayudu-04890a378/) 
+<p align="center">
+Building intelligent applications by combining AI with modern software engineering.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=likitha-281&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=likitha-281&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=likitha-281&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=likitha-281&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<a href="https://github.com/likitha-281">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+# 💫 About Me
+
+<table>
+<tr>
+<td width="100%" bgcolor="#0D1117">
+
+<h2>👋 Hi, I'm Likitha!</h2>
+
+<p>
+🎓 <b>B.Tech Student | Artificial Intelligence & Machine Learning</b>
+</p>
+
+<p>
+💡 I enjoy turning ideas into <b>real-world applications</b> by combining
+software engineering, AI and problem-solving.
+</p>
+
+<hr>
+
+<h3>🌐 Full-Stack Development</h3>
+<p>React • Vite • Node.js • Express.js • MongoDB • MySQL</p>
+
+<h3>🤖 AI / ML</h3>
+<p>Machine Learning • Deep Learning • NLP • Generative AI • LLMs • RAG • AI Agents</p>
+
+<h3>🧠 Problem Solving</h3>
+<p>Python • C • DSA • LeetCode • HackerRank • TUF</p>
+
+<hr>
+
+<h3>🚀 What I'm Building</h3>
+
+<p>
+End-to-end applications where
+<b>Frontend + Backend + Database + AI/ML</b>
+work together to solve practical problems.
+</p>
+
+<p>
+Currently exploring <b>AI-powered applications and intelligent agents</b>.
+</p>
+
+<h3>📚 Currently Learning</h3>
+
+<p>
+Modern AI Systems • LLM Applications • RAG • AI Agents •
+AI/Tech Integration • Backend Development • Deployment
+</p>
+
+<h3>🔨 How I Learn</h3>
+
+<p>
+<b>Learn → Build → Experiment → Break → Improve → Repeat</b>
+</p>
+
+<h3>🤝 Open To</h3>
+
+<p>
+Collaborating on interesting <b>AI, ML & Full-Stack projects</b>.
+</p>
+
+<h3>🎯 Goal</h3>
+
+<p>
+Become an <b>AI/ML Engineer</b> with strong software engineering skills
+and the ability to build <b>production-ready intelligent applications</b>.
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 Socials
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
